@@ -1,2 +1,2 @@
 # flappy-egg
-A flappy bird inspired game, build it unity. You're are an egg, don't get cooked!
+A flappy bird inspired game, built in Unity. You're an egg, don't get cooked!
